@@ -1,0 +1,8 @@
+.sl-list-content {
+  cursor: pointer;
+}
+
+.done > .sl-list-content {
+  text-decoration: line-through;
+  color: #909090;
+}
